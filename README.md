@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kuliyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right"  width="300" src="Animated.gif" alt="Coding">
+
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek0827](https://github.com/Abhishek0827)
 
 - 📫 How to reach me **abhishekkuliyal0827@gmail.com**
