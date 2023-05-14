@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Abhishek Kuliyal</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
+<img align="right" width=300 src="Animated.gif" alt="coding">
+
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek0827](https://github.com/Abhishek0827)
 
 - 📫 How to reach me **abhishekkuliyal0827@gmail.com**
@@ -20,4 +22,6 @@
 <br>
 <br>
 <br>
+<br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek0827&show_icons=true&locale=en" alt="abhishek0827" /></p>
